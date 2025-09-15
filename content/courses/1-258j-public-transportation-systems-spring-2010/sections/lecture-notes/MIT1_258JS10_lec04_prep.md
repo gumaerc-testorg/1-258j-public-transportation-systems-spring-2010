@@ -4,6 +4,7 @@ course_id: 1-258j-public-transportation-systems-spring-2010
 description: ''
 file: null
 file_location: /coursemedia/1-258j-public-transportation-systems-spring-2010/7cca243499368d6e4b6d6f4ac7196fcc_MIT1_258JS10_lec04_prep.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
