@@ -15,7 +15,7 @@ Supporting files for assignments 2-4 are not available on MIT OpenCourseWare.
 
 | ASSN # | ASSIGNMENTS | SUPPORTING FILES |
 | --- | --- | --- |
-| 1 | ([PDF]({{% getpage "courses/1-258j-public-transportation-systems-spring-2010/sections/assignments/MIT1_258JS10_assn01" %}})) | {{< br >}}{{< br >}}MBTA Service Delivery Policy 2009 ([PDF](http://www.mbta.com/uploadedfiles/About_the_T/T_Projects/T_Projects_List/2009_Service_Delivery_Policy.pdf)){{< br >}}{{< br >}}MBTA Service Plan ([PDF](http://www.mbta.com/uploadedFiles/About_the_T/T_Projects/T_Projects_List/ServicePlan08.pdf)){{< br >}}{{< br >}}TCRP Synthesis 10 ([PDF](http://onlinepubs.trb.org/onlinepubs/tcrp/tsyn10.pdf)){{< br >}}{{< br >}} |
+| 1 | ([PDF]({{% getpage "courses/1-258j-public-transportation-systems-spring-2010/sections/assignments/MIT1_258JS10_assn01" %}})) | {{< br >}}{{< br >}}MBTA Service Delivery Policy 2009 ({{% resource_link "7575ac06-8e95-43c2-85e4-c2a7f3e12cd4" "PDF" %}}){{< br >}}{{< br >}}MBTA Service Plan ({{% resource_link "a10a6217-0dfc-415b-8a1d-cfadaa1d5276" "PDF" %}}){{< br >}}{{< br >}}TCRP Synthesis 10 ({{% resource_link "906b60b4-68f8-43f7-8497-66f13e6624a4" "PDF" %}}){{< br >}}{{< br >}} |
 | 2 | ([PDF]({{% getpage "courses/1-258j-public-transportation-systems-spring-2010/sections/assignments/MIT1_258JS10_assn02" %}})) |   |
 | 3 | ([PDF]({{% getpage "courses/1-258j-public-transportation-systems-spring-2010/sections/assignments/MIT1_258JS10_assn03" %}})) |   |
 | 4 | ([PDF]({{% getpage "courses/1-258j-public-transportation-systems-spring-2010/sections/assignments/MIT1_258JS10_assn04" %}})) |
